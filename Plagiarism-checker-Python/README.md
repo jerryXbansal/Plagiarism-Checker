@@ -42,10 +42,3 @@ $ Plagiarism-checker-Python-> python3 app.py
 
 ```
 
-
-
-If you find this repo useful, give it a star so that many people can get to know it.
-
-## Credits
-
-All the credit goes to [kalebu](https://github.com/kalebu).
